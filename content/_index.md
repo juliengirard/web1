@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Julien H. Girard"
+date: 2024-09-09
 type: landing
 
 design:
