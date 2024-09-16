@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: mars-2099-1920.jpg
+          filename: mars2099.jpg
           filters:
             brightness: 1.0
           size: cover
