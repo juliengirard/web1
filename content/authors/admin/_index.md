@@ -3,11 +3,11 @@
 title: Julien H. Girard
 
 # Name pronunciation (optional)
-name_pronunciation: Julien Girard
+name_pronunciation:
 
 # Full name (for SEO)
-first_name:  
-last_name:
+first_name: Julien  
+last_name: Girard
 
 # Status emoji
 status:
