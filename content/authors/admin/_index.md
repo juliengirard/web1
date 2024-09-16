@@ -11,7 +11,7 @@ last_name: Girard
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🪐
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,33 +34,33 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/djulik
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/juliengiraffe/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/juliengirard/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=GFNGEzYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8627-0404
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Star & Planet Formation (Exoplanets, Brown Dwarfs, Disks)
+  - High Contrast Imaging, Adaptive Optics, Coronagraphy (Space/Ground)
+  - Astronomical Instrumentation and Observing Techniques/Strategies
 
 education:
   - area: PhD Astrophysics
-    institution: Lyon
+    institution: Université Claude Bernard Lyon 1
     date_start: 2001-10-01
     date_end: 2005-10-19
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _On-Sky Validation of the Polychromatic Laser Guide Star Concept for Adaptive Optics_. Supervised by Renaud Foy. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'PhD Thesis'
+      url: https://ui.adsabs.harvard.edu/abs/2005PhDT........11G/abstract
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -144,10 +144,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 100
+  - name: Spanish
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
